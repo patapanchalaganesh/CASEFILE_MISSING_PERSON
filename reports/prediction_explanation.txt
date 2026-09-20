@@ -1,0 +1,16 @@
+Area 'Area near Beijing Park 26' received a high prediction score because:
+
+(Based on global feature importance - SHAP unavailable for this model)
+- Last_Longitude: importance = 0.2872
+- Last_Latitude: importance = 0.2402
+- Day: importance = 0.0983
+- Time_Since_Last_Seen: importance = 0.0947
+- hour: importance = 0.0803
+
+Case context: Last seen at 18:45
+Day of week: Friday
+Weather conditions: Rain
+
+Prediction confidence: 85%
+
+DISCLAIMER: This is a probabilistic prediction for academic purposes only.

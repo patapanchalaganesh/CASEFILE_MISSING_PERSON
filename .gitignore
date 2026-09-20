@@ -1,0 +1,32 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+venv/
+.env/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Agents
+.agents/
+.gemini/
+
+# Large data files (exceed GitHub 100MB limit)
+data/processed/gps_anomalies.csv
+data/processed/gps_with_areas.csv
+data/processed/gps_features.csv
+data/processed/gps_cleaned.csv

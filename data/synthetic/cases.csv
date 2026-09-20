@@ -1,0 +1,113 @@
+Case_ID,FIR_Reference,Person_ID,Age_Group,Gender,Last_Latitude,Last_Longitude,Last_Seen_Time,Day,Weather,State,City,Police_Station,Usual_Area,Average_Distance,Average_Speed,Previous_Area,Time_Since_Last_Seen,Target_Area
+MP-AP-2026-001,FIR-242/2026-AP,378,18-25,Male,15.937736,79.733087,07:14,Friday,Fog,Andhra Pradesh,Kakinada,Tirupati Urban PS,Visakhapatnam RTC Complex,5.06,4.64,Nellore Residential Zone,27,Hyderabad — South India
+MP-AP-2026-002,FIR-384/2026-AP,415,18-25,Male,15.945284,79.816151,14:37,Saturday,Fog,Andhra Pradesh,Kakinada,Nellore East PS,Vijayawada Bus Stand,6.42,14.42,Vijayawada Residential Zone,13,Mumbai — West India
+MP-AP-2026-003,FIR-926/2026-AP,23,51-65,Male,15.901192,79.728293,19:16,Thursday,Clear,Andhra Pradesh,Guntur,Tirupati Urban PS,Nellore Bus Stand,21.25,9.85,Rajahmundry Transit Hub,26,Kolkata — East India
+MP-AP-2026-004,FIR-975/2026-AP,120,18-25,Female,15.991861,79.778372,09:05,Wednesday,Fog,Andhra Pradesh,Kakinada,Tirupati Urban PS,Kakinada University Campus,11.03,6.5,Tirupati Transit Hub,11,Hyderabad — South India
+MP-AR-2026-005,FIR-267/2026-AR,237,51-65,Female,27.076526,93.647128,23:15,Saturday,Partly Cloudy,Arunachal Pradesh,Tawang,Pasighat PS,Naharlagun IT Park,10.13,11.87,Naharlagun Commercial Area,6,Delhi NCR — North India
+MP-AR-2026-006,FIR-680/2026-AR,449,36-50,Male,27.076829,93.596714,06:58,Saturday,Fog,Arunachal Pradesh,Pasighat,Naharlagun PS,Pasighat IT Park,13.09,5.08,Naharlagun Hospital Area,70,Kolkata — East India
+MP-AR-2026-007,FIR-470/2026-AR,113,26-35,Female,27.112098,93.524336,18:25,Monday,Clear,Arunachal Pradesh,Pasighat,Pasighat PS,Naharlagun Railway Station,16.8,12.19,Pasighat Hospital Area,10,Guwahati — Northeast India
+MP-AR-2026-008,FIR-666/2026-AR,441,18-25,Male,27.013754,93.591886,16:16,Saturday,Partly Cloudy,Arunachal Pradesh,Pasighat,Naharlagun PS,Pasighat University Campus,17.1,3.01,Pasighat Commercial Area,60,Guwahati — Northeast India
+MP-AS-2026-009,FIR-208/2026-AS,446,36-50,Male,26.089358,91.785712,05:32,Tuesday,Rain,Assam,Guwahati,Dibrugarh PS,Silchar Temple Zone,23.98,13.95,Guwahati Hospital Area,43,Kolkata — East India
+MP-AS-2026-010,FIR-159/2026-AS,124,65+,Male,26.094599,91.699385,09:15,Monday,Fog,Assam,Jorhat,Guwahati Central PS,Guwahati University Campus,14.72,3.2,Jorhat Hospital Area,23,Hyderabad — South India
+MP-AS-2026-011,FIR-652/2026-AS,387,26-35,Female,26.213282,91.758711,06:59,Thursday,Rain,Assam,Dibrugarh,Dibrugarh PS,Jorhat Temple Zone,12.93,4.85,Guwahati Transit Hub,4,Guwahati — Northeast India
+MP-AS-2026-012,FIR-172/2026-AS,363,18-25,Male,26.143376,91.698763,07:00,Monday,Clear,Assam,Nagaon,Dibrugarh PS,Dibrugarh RTC Complex,14.31,5.26,Jorhat Commercial Area,71,Delhi NCR — North India
+MP-BR-2026-013,FIR-903/2026-BR,243,51-65,Male,25.572781,85.105546,15:15,Monday,Clear,Bihar,Muzaffarpur,Muzaffarpur PS,Darbhanga Bus Stand,12.32,7.8,Gaya Residential Zone,9,Guwahati — Northeast India
+MP-BR-2026-014,FIR-294/2026-BR,275,51-65,Male,25.54245,85.118785,07:12,Thursday,Cloudy,Bihar,Darbhanga,Muzaffarpur PS,Bhagalpur Market Area,8.5,13.96,Darbhanga Hospital Area,14,Kolkata — East India
+MP-BR-2026-015,FIR-871/2026-BR,435,26-35,Male,25.569968,85.085415,02:59,Thursday,Fog,Bihar,Gaya,Muzaffarpur PS,Darbhanga Railway Station,22.02,13.68,Muzaffarpur Market,2,Guwahati — Northeast India
+MP-BR-2026-016,FIR-848/2026-BR,402,65+,Female,25.569915,85.192614,13:44,Tuesday,Cloudy,Bihar,Darbhanga,Gaya PS,Bhagalpur Railway Station,24.31,9.32,Gaya Transit Hub,9,Mumbai — West India
+MP-CG-2026-017,FIR-158/2026-CG,492,65+,Male,21.249325,81.577114,16:10,Sunday,Cloudy,Chhattisgarh,Bhilai,Bilaspur PS,Bhilai Temple Zone,4.5,13.13,Durg Residential Zone,33,Mumbai — West India
+MP-CG-2026-018,FIR-678/2026-CG,268,36-50,Female,21.291127,81.568958,21:37,Tuesday,Rain,Chhattisgarh,Bhilai,Bilaspur PS,Bilaspur Bus Stand,11.71,10.57,Korba Market,42,Hyderabad — South India
+MP-CG-2026-019,FIR-175/2026-CG,276,26-35,Female,21.260443,81.532016,18:06,Tuesday,Rain,Chhattisgarh,Bhilai,Raipur Civil Lines PS,Bhilai Railway Station,11.13,3.63,Korba Hospital Area,69,Mumbai — West India
+MP-CG-2026-020,FIR-999/2026-CG,69,36-50,Male,21.183591,81.639843,21:06,Monday,Partly Cloudy,Chhattisgarh,Bhilai,Bilaspur PS,Bilaspur Bus Stand,9.2,4.34,Korba Commercial Area,35,Guwahati — Northeast India
+MP-GA-2026-021,FIR-949/2026-GA,142,18-25,Male,15.536923,73.838568,20:27,Wednesday,Cloudy,Goa,Ponda,Margao PS,Mapusa Railway Station,19.31,8.95,Ponda Hospital Area,3,Hyderabad — South India
+MP-GA-2026-022,FIR-478/2026-GA,299,65+,Male,15.494218,73.814945,01:53,Thursday,Cloudy,Goa,Margao,Panaji PS,Margao Bus Stand,11.02,14.1,Margao Transit Hub,28,Delhi NCR — North India
+MP-GA-2026-023,FIR-995/2026-GA,209,65+,Male,15.426074,73.794008,17:56,Tuesday,Cloudy,Goa,Vasco,Vasco PS,Vasco Market Area,3.55,11.44,Mapusa Market,33,Hyderabad — South India
+MP-GA-2026-024,FIR-581/2026-GA,114,26-35,Female,15.476968,73.882856,01:54,Wednesday,Rain,Goa,Mapusa,Panaji PS,Vasco Railway Station,3.52,4.11,Mapusa Transit Hub,10,Hyderabad — South India
+MP-GJ-2026-025,FIR-649/2026-GJ,170,18-25,Male,23.017181,72.481848,21:53,Wednesday,Cloudy,Gujarat,Vadodara,Surat City PS,Bhavnagar Bus Stand,3.84,9.55,Vadodara Transit Hub,57,Guwahati — Northeast India
+MP-GJ-2026-026,FIR-360/2026-GJ,23,51-65,Male,23.016204,72.550746,18:12,Friday,Partly Cloudy,Gujarat,Bhavnagar,Vadodara PS,Surat Bus Stand,12.49,14.31,Vadodara Hospital Area,42,Hyderabad — South India
+MP-GJ-2026-027,FIR-518/2026-GJ,168,51-65,Female,22.966154,72.600584,09:42,Friday,Cloudy,Gujarat,Ahmedabad,Vadodara PS,Surat Market Area,17.63,6.62,Surat Hospital Area,40,Kolkata — East India
+MP-GJ-2026-028,FIR-540/2026-GJ,403,65+,Female,23.05155,72.616564,09:13,Thursday,Fog,Gujarat,Rajkot,Vadodara PS,Rajkot IT Park,7.7,7.89,Surat Residential Zone,38,Hyderabad — South India
+MP-HR-2026-029,FIR-869/2026-HR,121,36-50,Male,29.018039,76.074539,02:52,Sunday,Cloudy,Haryana,Karnal,Panipat PS,Faridabad RTC Complex,4.02,14.78,Karnal Residential Zone,60,Guwahati — Northeast India
+MP-HR-2026-030,FIR-493/2026-HR,254,51-65,Male,29.076563,76.138777,22:44,Tuesday,Clear,Haryana,Ambala,Panipat PS,Gurugram University Campus,12.35,3.87,Karnal Market,8,Guwahati — Northeast India
+MP-HR-2026-031,FIR-575/2026-HR,342,65+,Female,29.036041,76.080717,04:51,Sunday,Fog,Haryana,Karnal,Gurugram Cyber PS,Karnal University Campus,18.82,8.31,Karnal Market,22,Hyderabad — South India
+MP-HR-2026-032,FIR-884/2026-HR,399,65+,Female,29.004683,76.03019,20:17,Saturday,Cloudy,Haryana,Ambala,Faridabad PS,Panipat Market Area,4.7,5.36,Panipat Transit Hub,42,Kolkata — East India
+MP-HP-2026-033,FIR-256/2026-HP,362,26-35,Male,31.140626,77.237812,12:44,Thursday,Fog,Himachal Pradesh,Dharamshala,Shimla PS,Kullu Temple Zone,13.25,2.34,Solan Market,4,Delhi NCR — North India
+MP-HP-2026-034,FIR-499/2026-HP,437,51-65,Male,31.096399,77.220177,09:48,Thursday,Cloudy,Himachal Pradesh,Solan,Dharamshala PS,Kullu Market Area,13.68,6.75,Solan Commercial Area,61,Hyderabad — South India
+MP-HP-2026-035,FIR-677/2026-HP,340,18-25,Male,31.118082,77.137744,12:37,Saturday,Fog,Himachal Pradesh,Mandi,Mandi PS,Mandi University Campus,13.16,2.18,Solan Transit Hub,29,Guwahati — Northeast India
+MP-HP-2026-036,FIR-951/2026-HP,216,36-50,Male,31.11807,77.246902,08:48,Thursday,Clear,Himachal Pradesh,Solan,Dharamshala PS,Dharamshala Bus Stand,7.93,2.43,Dharamshala Residential Zone,33,Kolkata — East India
+MP-JH-2026-037,FIR-584/2026-JH,343,18-25,Male,23.348209,85.408232,07:08,Thursday,Rain,Jharkhand,Dhanbad,Ranchi PS,Bokaro Railway Station,16.33,14.51,Jamshedpur Commercial Area,41,Guwahati — Northeast India
+MP-JH-2026-038,FIR-484/2026-JH,204,26-35,Male,23.219013,85.371095,18:43,Friday,Cloudy,Jharkhand,Jamshedpur,Dhanbad PS,Jamshedpur IT Park,19.99,12.98,Jamshedpur Hospital Area,7,Hyderabad — South India
+MP-JH-2026-039,FIR-763/2026-JH,175,18-25,Female,23.354352,85.31505,02:32,Sunday,Fog,Jharkhand,Bokaro,Dhanbad PS,Jamshedpur Market Area,24.14,10.08,Hazaribagh Commercial Area,57,Mumbai — West India
+MP-JH-2026-040,FIR-651/2026-JH,397,51-65,Female,23.354588,85.230622,19:51,Thursday,Partly Cloudy,Jharkhand,Dhanbad,Dhanbad PS,Bokaro Bus Stand,21.74,12.71,Jamshedpur Transit Hub,59,Guwahati — Northeast India
+MP-KA-2026-041,FIR-444/2026-KA,15,51-65,Female,12.959016,77.607856,21:24,Tuesday,Fog,Karnataka,Mangaluru,Mysuru PS,Mangaluru Bus Stand,20.55,6.09,Shimoga Transit Hub,3,Guwahati — Northeast India
+MP-KA-2026-042,FIR-600/2026-KA,285,26-35,Female,13.043895,77.564086,23:26,Saturday,Fog,Karnataka,Shimoga,Bengaluru Central PS,Belgaum University Campus,3.38,5.47,Belgaum Commercial Area,41,Hyderabad — South India
+MP-KA-2026-043,FIR-535/2026-KA,382,65+,Female,12.929575,77.564912,16:22,Wednesday,Fog,Karnataka,Shimoga,Mysuru PS,Hubli Bus Stand,8.53,3.13,Mangaluru Transit Hub,17,Mumbai — West India
+MP-KA-2026-044,FIR-595/2026-KA,142,65+,Female,13.01577,77.606438,06:47,Monday,Cloudy,Karnataka,Shimoga,Mangaluru PS,Hubli Railway Station,10.94,5.58,Shimoga Commercial Area,37,Delhi NCR — North India
+MP-KL-2026-045,FIR-753/2026-KL,445,51-65,Male,10.823512,76.295663,22:08,Sunday,Clear,Kerala,Kochi,Kochi City PS,Thrissur Market Area,13.53,6.1,Kochi Transit Hub,63,Guwahati — Northeast India
+MP-KL-2026-046,FIR-744/2026-KL,352,18-25,Male,10.854854,76.318432,02:36,Tuesday,Partly Cloudy,Kerala,Kochi,Kochi City PS,Thrissur RTC Complex,24.87,3.1,Kollam Hospital Area,30,Mumbai — West India
+MP-KL-2026-047,FIR-412/2026-KL,292,65+,Male,10.814897,76.253617,18:27,Friday,Clear,Kerala,Kollam,Kozhikode PS,Kozhikode IT Park,7.64,10.42,Kozhikode Commercial Area,24,Mumbai — West India
+MP-KL-2026-048,FIR-708/2026-KL,241,36-50,Male,10.830395,76.196824,14:44,Tuesday,Rain,Kerala,Kochi,Kochi City PS,Thrissur IT Park,21.91,2.46,Kozhikode Transit Hub,27,Hyderabad — South India
+MP-MP-2026-049,FIR-372/2026-MP,424,26-35,Male,23.274806,77.423053,20:09,Monday,Cloudy,Madhya Pradesh,Ujjain,Bhopal Central PS,Gwalior Temple Zone,19.48,9.18,Gwalior Market,17,Guwahati — Northeast India
+MP-MP-2026-050,FIR-652/2026-MP,253,51-65,Male,23.260256,77.398271,08:32,Friday,Clear,Madhya Pradesh,Ujjain,Jabalpur PS,Ujjain IT Park,10.09,4.88,Indore Commercial Area,4,Kolkata — East India
+MP-MP-2026-051,FIR-767/2026-MP,227,36-50,Male,23.189231,77.388968,15:33,Friday,Fog,Madhya Pradesh,Gwalior,Jabalpur PS,Ujjain RTC Complex,13.34,7.01,Gwalior Residential Zone,22,Hyderabad — South India
+MP-MP-2026-052,FIR-933/2026-MP,390,65+,Male,23.242864,77.369886,21:25,Thursday,Clear,Madhya Pradesh,Gwalior,Indore PS,Gwalior Bus Stand,10.11,14.6,Ujjain Hospital Area,2,Mumbai — West India
+MP-MH-2026-053,FIR-470/2026-MH,319,51-65,Female,19.071936,72.900203,06:33,Sunday,Clear,Maharashtra,Thane,Pune City PS,Nagpur Bus Stand,15.08,14.02,Aurangabad Market,17,Mumbai — West India
+MP-MH-2026-054,FIR-418/2026-MH,283,18-25,Female,19.174309,72.888729,22:10,Monday,Cloudy,Maharashtra,Pune,Nagpur PS,Pune Market Area,23.84,10.24,Nagpur Market,39,Guwahati — Northeast India
+MP-MH-2026-055,FIR-349/2026-MH,234,65+,Male,19.092878,72.876278,15:30,Thursday,Cloudy,Maharashtra,Thane,Nagpur PS,Thane Temple Zone,19.42,3.34,Pune Transit Hub,55,Kolkata — East India
+MP-MH-2026-056,FIR-405/2026-MH,429,65+,Female,18.984061,72.878674,09:46,Sunday,Cloudy,Maharashtra,Nashik,Nagpur PS,Aurangabad Temple Zone,13.66,5.99,Thane Market,60,Kolkata — East India
+MP-MN-2026-057,FIR-976/2026-MN,398,51-65,Male,24.823012,94.073162,12:14,Wednesday,Fog,Manipur,Bishnupur,Imphal PS,Churachandpur University Campus,11.39,14.84,Churachandpur Commercial Area,65,Delhi NCR — North India
+MP-MN-2026-058,FIR-202/2026-MN,448,51-65,Male,24.810382,93.965077,10:55,Friday,Fog,Manipur,Thoubal,Imphal PS,Thoubal IT Park,6.17,13.26,Thoubal Residential Zone,62,Guwahati — Northeast India
+MP-MN-2026-059,FIR-972/2026-MN,169,65+,Female,24.818264,93.891566,20:05,Wednesday,Fog,Manipur,Bishnupur,Thoubal PS,Churachandpur RTC Complex,16.58,4.67,Churachandpur Transit Hub,31,Guwahati — Northeast India
+MP-MN-2026-060,FIR-993/2026-MN,52,51-65,Male,24.877141,93.987597,20:45,Saturday,Rain,Manipur,Churachandpur,Imphal PS,Thoubal RTC Complex,10.14,2.26,Bishnupur Transit Hub,57,Mumbai — West India
+MP-ML-2026-061,FIR-911/2026-ML,93,26-35,Male,25.609552,91.834531,18:43,Monday,Partly Cloudy,Meghalaya,Tura,Shillong PS,Jowai Temple Zone,18.03,8.22,Nongstoin Commercial Area,31,Guwahati — Northeast India
+MP-ML-2026-062,FIR-923/2026-ML,239,36-50,Male,25.64014,91.809907,21:00,Monday,Fog,Meghalaya,Jowai,Tura PS,Jowai Temple Zone,9.58,14.49,Nongstoin Transit Hub,60,Mumbai — West India
+MP-ML-2026-063,FIR-490/2026-ML,293,36-50,Female,25.599343,91.989523,03:15,Saturday,Rain,Meghalaya,Jowai,Shillong PS,Tura University Campus,17.48,5.21,Nongstoin Residential Zone,65,Mumbai — West India
+MP-ML-2026-064,FIR-294/2026-ML,318,36-50,Male,25.520473,91.851685,07:40,Saturday,Clear,Meghalaya,Jowai,Shillong PS,Nongstoin IT Park,3.87,12.15,Tura Hospital Area,48,Guwahati — Northeast India
+MP-MZ-2026-065,FIR-525/2026-MZ,90,26-35,Male,23.734983,92.694826,10:47,Sunday,Partly Cloudy,Mizoram,Serchhip,Aizawl PS,Champhai Temple Zone,14.04,5.18,Lunglei Transit Hub,63,Hyderabad — South India
+MP-MZ-2026-066,FIR-872/2026-MZ,495,26-35,Female,23.652467,92.723428,02:09,Sunday,Partly Cloudy,Mizoram,Champhai,Lunglei PS,Champhai RTC Complex,20.4,1.69,Serchhip Residential Zone,60,Hyderabad — South India
+MP-MZ-2026-067,FIR-210/2026-MZ,346,26-35,Female,23.676885,92.74368,20:23,Monday,Partly Cloudy,Mizoram,Champhai,Lunglei PS,Serchhip Bus Stand,23.14,4.49,Lunglei Market,40,Guwahati — Northeast India
+MP-MZ-2026-068,FIR-411/2026-MZ,253,18-25,Male,23.684029,92.797497,01:02,Tuesday,Partly Cloudy,Mizoram,Serchhip,Lunglei PS,Lunglei Market Area,12.98,10.55,Serchhip Hospital Area,55,Hyderabad — South India
+MP-NL-2026-069,FIR-517/2026-NL,481,36-50,Male,25.630837,94.103897,15:39,Saturday,Rain,Nagaland,Tuensang,Kohima PS,Dimapur Market Area,12.78,4.69,Mokokchung Residential Zone,49,Mumbai — West India
+MP-NL-2026-070,FIR-225/2026-NL,486,51-65,Male,25.710676,94.058457,08:12,Saturday,Cloudy,Nagaland,Tuensang,Dimapur PS,Tuensang IT Park,16.14,1.79,Mokokchung Commercial Area,18,Hyderabad — South India
+MP-NL-2026-071,FIR-321/2026-NL,417,26-35,Female,25.681373,94.185357,06:37,Sunday,Cloudy,Nagaland,Tuensang,Kohima PS,Tuensang RTC Complex,9.1,14.78,Dimapur Hospital Area,34,Hyderabad — South India
+MP-NL-2026-072,FIR-908/2026-NL,404,26-35,Female,25.589626,94.129232,00:22,Monday,Cloudy,Nagaland,Dimapur,Kohima PS,Mokokchung RTC Complex,5.79,7.18,Dimapur Residential Zone,62,Hyderabad — South India
+MP-OD-2026-073,FIR-615/2026-OD,114,65+,Male,20.312994,85.859091,03:28,Saturday,Partly Cloudy,Odisha,Sambalpur,Cuttack PS,Berhampur Market Area,17.15,1.92,Sambalpur Market,56,Guwahati — Northeast India
+MP-OD-2026-074,FIR-722/2026-OD,76,18-25,Male,20.238152,85.753977,02:20,Wednesday,Partly Cloudy,Odisha,Cuttack,Cuttack PS,Berhampur Market Area,24.88,8.66,Sambalpur Hospital Area,57,Mumbai — West India
+MP-OD-2026-075,FIR-320/2026-OD,221,51-65,Male,20.326097,85.834849,23:55,Thursday,Rain,Odisha,Cuttack,Rourkela PS,Sambalpur Market Area,12.15,2.78,Sambalpur Transit Hub,34,Hyderabad — South India
+MP-OD-2026-076,FIR-187/2026-OD,48,51-65,Male,20.312525,85.837322,02:53,Saturday,Rain,Odisha,Berhampur,Bhubaneswar PS,Rourkela Temple Zone,4.32,14.41,Berhampur Residential Zone,54,Mumbai — West India
+MP-PB-2026-077,FIR-419/2026-PB,181,18-25,Male,31.065999,75.351613,09:38,Tuesday,Fog,Punjab,Jalandhar,Jalandhar PS,Amritsar University Campus,5.38,12.91,Jalandhar Residential Zone,37,Mumbai — West India
+MP-PB-2026-078,FIR-758/2026-PB,286,18-25,Female,31.114654,75.304282,19:43,Monday,Cloudy,Punjab,Amritsar,Amritsar PS,Jalandhar IT Park,19.77,13.94,Jalandhar Residential Zone,25,Guwahati — Northeast India
+MP-PB-2026-079,FIR-748/2026-PB,498,18-25,Male,31.193289,75.363692,04:47,Saturday,Partly Cloudy,Punjab,Amritsar,Jalandhar PS,Amritsar Market Area,12.24,6.1,Jalandhar Transit Hub,43,Mumbai — West India
+MP-PB-2026-080,FIR-790/2026-PB,42,36-50,Female,31.040435,75.372828,19:03,Saturday,Fog,Punjab,Ludhiana,Ludhiana PS,Patiala Temple Zone,12.72,5.19,Ludhiana Transit Hub,57,Delhi NCR — North India
+MP-RJ-2026-081,FIR-415/2026-RJ,24,26-35,Female,26.871266,75.829354,16:42,Friday,Clear,Rajasthan,Jodhpur,Jodhpur PS,Jodhpur Railway Station,9.63,4.35,Udaipur Transit Hub,39,Guwahati — Northeast India
+MP-RJ-2026-082,FIR-279/2026-RJ,67,51-65,Male,26.97793,75.748966,23:27,Friday,Partly Cloudy,Rajasthan,Kota,Jaipur City PS,Kota RTC Complex,11.74,11.52,Ajmer Residential Zone,60,Hyderabad — South India
+MP-RJ-2026-083,FIR-826/2026-RJ,328,51-65,Female,26.968169,75.810639,18:25,Monday,Fog,Rajasthan,Jodhpur,Jodhpur PS,Jodhpur Bus Stand,6.78,14.29,Ajmer Transit Hub,13,Guwahati — Northeast India
+MP-RJ-2026-084,FIR-636/2026-RJ,41,51-65,Female,26.961103,75.88484,18:25,Saturday,Rain,Rajasthan,Ajmer,Jaipur City PS,Udaipur Bus Stand,20.14,2.53,Jodhpur Hospital Area,67,Delhi NCR — North India
+MP-SK-2026-085,FIR-249/2026-SK,132,26-35,Male,27.317731,88.572313,07:06,Friday,Cloudy,Sikkim,Namchi,Namchi PS,Gyalshing RTC Complex,6.9,11.93,Mangan Market,59,Kolkata — East India
+MP-SK-2026-086,FIR-580/2026-SK,227,36-50,Female,27.285524,88.569209,14:04,Friday,Clear,Sikkim,Gyalshing,Namchi PS,Mangan Temple Zone,4.63,7.73,Namchi Residential Zone,49,Kolkata — East India
+MP-SK-2026-087,FIR-493/2026-SK,237,65+,Male,27.326145,88.627058,19:32,Thursday,Partly Cloudy,Sikkim,Mangan,Gangtok PS,Gyalshing Railway Station,10.07,7.92,Namchi Residential Zone,59,Hyderabad — South India
+MP-SK-2026-088,FIR-140/2026-SK,127,51-65,Female,27.343835,88.651359,20:11,Friday,Partly Cloudy,Sikkim,Namchi,Namchi PS,Gyalshing Railway Station,11.01,13.89,Mangan Market,45,Hyderabad — South India
+MP-TN-2026-089,FIR-671/2026-TN,348,51-65,Female,13.08065,80.342677,10:06,Wednesday,Partly Cloudy,Tamil Nadu,Tirunelveli,Chennai Central PS,Madurai Bus Stand,4.79,10.46,Tiruchirappalli Transit Hub,52,Kolkata — East India
+MP-TN-2026-090,FIR-758/2026-TN,406,36-50,Male,13.066767,80.406008,17:24,Saturday,Partly Cloudy,Tamil Nadu,Madurai,Madurai PS,Coimbatore IT Park,17.75,8.36,Coimbatore Transit Hub,41,Hyderabad — South India
+MP-TN-2026-091,FIR-240/2026-TN,80,18-25,Female,13.111283,80.227142,06:14,Sunday,Clear,Tamil Nadu,Madurai,Chennai Central PS,Tirunelveli University Campus,14.87,11.47,Tirunelveli Residential Zone,45,Kolkata — East India
+MP-TN-2026-092,FIR-285/2026-TN,426,65+,Male,13.026455,80.294124,04:10,Saturday,Fog,Tamil Nadu,Tirunelveli,Chennai Central PS,Coimbatore Market Area,11.01,11.21,Salem Hospital Area,38,Guwahati — Northeast India
+MP-TS-2026-093,FIR-903/2026-TS,241,26-35,Female,17.378827,78.5257,09:51,Saturday,Partly Cloudy,Telangana,Khammam,Hyderabad Cyber Crime PS,Khammam Market Area,19.93,12.0,Khammam Commercial Area,27,Guwahati — Northeast India
+MP-TS-2026-094,FIR-205/2026-TS,365,65+,Male,17.413662,78.486359,11:35,Wednesday,Clear,Telangana,Nizamabad,Warangal PS,Nizamabad Bus Stand,12.89,8.43,Khammam Residential Zone,30,Hyderabad — South India
+MP-TS-2026-095,FIR-614/2026-TS,192,26-35,Female,17.34766,78.414258,01:25,Monday,Rain,Telangana,Khammam,Warangal PS,Nizamabad RTC Complex,10.01,2.84,Karimnagar Commercial Area,19,Hyderabad — South India
+MP-TS-2026-096,FIR-559/2026-TS,316,18-25,Male,17.367674,78.53282,22:30,Monday,Rain,Telangana,Warangal,Warangal PS,Nizamabad University Campus,6.29,14.19,Khammam Residential Zone,38,Mumbai — West India
+MP-TR-2026-097,FIR-754/2026-TR,407,65+,Female,23.840705,91.217713,07:26,Monday,Clear,Tripura,Udaipur,Udaipur PS,Dharmanagar Temple Zone,14.79,10.03,Kailashahar Commercial Area,20,Hyderabad — South India
+MP-TR-2026-098,FIR-684/2026-TR,214,26-35,Male,23.838659,91.299266,11:15,Friday,Rain,Tripura,Dharmanagar,Udaipur PS,Udaipur Temple Zone,14.97,12.12,Kailashahar Hospital Area,4,Hyderabad — South India
+MP-TR-2026-099,FIR-865/2026-TR,9,36-50,Male,23.785807,91.287686,11:16,Wednesday,Cloudy,Tripura,Dharmanagar,Udaipur PS,Kailashahar IT Park,16.82,11.92,Kailashahar Transit Hub,19,Hyderabad — South India
+MP-TR-2026-100,FIR-950/2026-TR,399,51-65,Female,23.83291,91.222851,20:11,Saturday,Cloudy,Tripura,Udaipur,Udaipur PS,Udaipur RTC Complex,18.75,14.24,Udaipur Transit Hub,27,Guwahati — Northeast India
+MP-UP-2026-101,FIR-507/2026-UP,418,65+,Female,26.867889,80.978039,09:32,Wednesday,Clear,Uttar Pradesh,Noida,Noida PS,Meerut Railway Station,9.29,13.14,Noida Transit Hub,36,Hyderabad — South India
+MP-UP-2026-102,FIR-495/2026-UP,174,26-35,Female,26.904153,81.00269,23:28,Saturday,Fog,Uttar Pradesh,Noida,Agra PS,Varanasi University Campus,14.42,12.32,Meerut Market,12,Mumbai — West India
+MP-UP-2026-103,FIR-181/2026-UP,168,36-50,Female,26.781117,80.903109,10:06,Thursday,Partly Cloudy,Uttar Pradesh,Kanpur,Noida PS,Meerut Market Area,6.67,7.49,Kanpur Residential Zone,47,Guwahati — Northeast India
+MP-UP-2026-104,FIR-752/2026-UP,208,36-50,Male,26.875752,80.975689,02:42,Monday,Cloudy,Uttar Pradesh,Prayagraj,Varanasi PS,Prayagraj IT Park,20.19,1.97,Noida Commercial Area,48,Kolkata — East India
+MP-UK-2026-105,FIR-795/2026-UK,231,36-50,Female,30.345752,78.222637,19:09,Thursday,Clear,Uttarakhand,Nainital,Haridwar PS,Rishikesh Temple Zone,11.07,5.74,Nainital Commercial Area,16,Guwahati — Northeast India
+MP-UK-2026-106,FIR-675/2026-UK,61,36-50,Female,30.348545,78.086778,16:24,Saturday,Fog,Uttarakhand,Haridwar,Nainital PS,Rishikesh Temple Zone,9.28,13.87,Haldwani Commercial Area,17,Delhi NCR — North India
+MP-UK-2026-107,FIR-189/2026-UK,415,36-50,Female,30.3677,78.06257,22:28,Saturday,Clear,Uttarakhand,Rishikesh,Dehradun PS,Nainital Bus Stand,21.73,11.11,Rishikesh Transit Hub,67,Mumbai — West India
+MP-UK-2026-108,FIR-605/2026-UK,14,36-50,Female,30.304237,78.067948,07:50,Thursday,Partly Cloudy,Uttarakhand,Rishikesh,Dehradun PS,Rishikesh Temple Zone,22.45,2.39,Haldwani Market,69,Delhi NCR — North India
+MP-WB-2026-109,FIR-757/2026-WB,38,51-65,Female,22.531359,88.348159,04:20,Saturday,Partly Cloudy,West Bengal,Asansol,Howrah PS,Durgapur Railway Station,22.32,12.03,Siliguri Commercial Area,57,Guwahati — Northeast India
+MP-WB-2026-110,FIR-265/2026-WB,166,26-35,Female,22.545732,88.364094,09:10,Friday,Rain,West Bengal,Howrah,Kolkata Lalbazar PS,Howrah Bus Stand,7.32,14.41,Durgapur Commercial Area,40,Guwahati — Northeast India
+MP-WB-2026-111,FIR-275/2026-WB,338,65+,Female,22.685733,88.266637,18:09,Sunday,Partly Cloudy,West Bengal,Howrah,Siliguri PS,Howrah University Campus,22.0,2.6,Durgapur Commercial Area,55,Delhi NCR — North India
+MP-WB-2026-112,FIR-594/2026-WB,126,51-65,Female,22.604313,88.279364,20:19,Thursday,Clear,West Bengal,Howrah,Howrah PS,Howrah Railway Station,12.67,8.04,Siliguri Transit Hub,20,Guwahati — Northeast India
