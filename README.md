@@ -6,9 +6,9 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![License](https://img.shields.io/badge/License-Academic-blue?style=flat-square)]()
-[![Deployed](https://img.shields.io/badge/🚀_Live_Demo-Streamlit_Cloud-FF4B4B?style=flat-square)](https://casefilemissingperson.streamlit.app)
+[![Deployed](https://img.shields.io/badge/🚀_Live_Demo-Streamlit_Cloud-FF4B4B?style=flat-square)](https://patapanchalaganesh-casefile-missing-person-appapp-izpibe.streamlit.app/)
 
-### 🌐 [▶️ Click Here for Live Demo](https://casefilemissingperson.streamlit.app)
+### 🌐 [▶️ Click Here for Live Demo](https://patapanchalaganesh-casefile-missing-person-appapp-izpibe.streamlit.app/)
 
 ---
 
@@ -100,7 +100,7 @@ The app will open at `http://localhost:8501`
 
 ## ☁️ Deployed on Streamlit Cloud
 
-✅ **This app is live!** → [https://casefilemissingperson.streamlit.app](https://casefilemissingperson.streamlit.app)
+✅ **This app is live!** → [https://patapanchalaganesh-casefile-missing-person-appapp-izpibe.streamlit.app](https://patapanchalaganesh-casefile-missing-person-appapp-izpibe.streamlit.app/)
 
 > No installation required — open the link in any browser to access the full dashboard.
 
